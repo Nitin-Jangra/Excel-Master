@@ -12,7 +12,7 @@ This repository is a comprehensive guide to mastering Microsoft Excel, covering 
 🖼️ Screenshots
 
 Example 1:
-<img src="Screenshot 2025-03-19 215053.png" width="400">
+<img src="Screenshot 2025-03-19 215153.png" width="400">
 
 
 
