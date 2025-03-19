@@ -12,13 +12,14 @@ This repository is a comprehensive guide to mastering Microsoft Excel, covering 
 🖼️ Screenshots
 
 Example 1:
-![Example 1](Screenshot 2025-03-19 215054.png)
+<img src="Screenshot 2025-03-19 215053.png" width="400">
+
 
 
 
 
 Example 2:
-![Example 2](Screenshot 2025-03-19 215153.png)
+<img src="Screenshot 2025-03-19 215054.png" width="400">
 
 ## 📖 Learning Path
 ### 🔹 Beginner
